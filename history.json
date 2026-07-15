@@ -3647,7 +3647,7 @@
   "[MagicLinen] Down Duvet Insert (US Queen)": {
     "product_name": "Down Duvet Insert",
     "variant_name": "US Queen",
-    "price": 276.0,
+    "price": 295.0,
     "available": false,
     "url": "https://magiclinen.com/products/down-duvet-insert",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-insert-1.jpg?v=1706489705",
@@ -3656,7 +3656,7 @@
   "[MagicLinen] Down Duvet Insert (US King)": {
     "product_name": "Down Duvet Insert",
     "variant_name": "US King",
-    "price": 286.0,
+    "price": 306.0,
     "available": true,
     "url": "https://magiclinen.com/products/down-duvet-insert",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-insert-1.jpg?v=1706489705",
@@ -4584,7 +4584,7 @@
     "product_name": "Chocolate brown linen fitted sheet",
     "variant_name": "US / Full / Double",
     "price": 138.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/chocolate-brown-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/chocolate-brown-linen-fitted-sheet-4.jpg?v=1725372307",
     "category": "MagicLinen - Bedding"
@@ -4647,7 +4647,7 @@
     "product_name": "Chocolate brown linen fitted sheet",
     "variant_name": "UK / Double",
     "price": 138.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/chocolate-brown-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/chocolate-brown-linen-fitted-sheet-4.jpg?v=1725372307",
     "category": "MagicLinen - Bedding"
@@ -5700,7 +5700,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "US / Twin XL",
     "price": 231.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5709,7 +5709,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "US / Full / Double",
     "price": 246.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5718,7 +5718,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "US / Queen",
     "price": 289.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5736,7 +5736,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "US / CAL King",
     "price": 345.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5745,7 +5745,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "UK / Single",
     "price": 182.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5754,7 +5754,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "UK / Single (IKEA)",
     "price": 196.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5763,7 +5763,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "UK / Double",
     "price": 246.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5772,7 +5772,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "UK / King",
     "price": 286.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5781,7 +5781,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "EU / Single",
     "price": 182.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5790,7 +5790,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "EU / Single (IKEA)",
     "price": 196.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -5799,7 +5799,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "EU / Double",
     "price": 256.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -6402,7 +6402,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "US / Full / Double",
     "price": 138.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6420,7 +6420,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "US / Queen (Deep Pocket)",
     "price": 186.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6429,7 +6429,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "US / CAL King",
     "price": 170.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6438,7 +6438,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "US / King",
     "price": 167.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6447,7 +6447,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "US / King (Deep Pocket)",
     "price": 208.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6456,7 +6456,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "UK / Double",
     "price": 138.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6474,7 +6474,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "EU / King",
     "price": 147.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6483,7 +6483,7 @@
     "product_name": "Dusty blue linen fitted sheet",
     "variant_name": "AU / Queen",
     "price": 186.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-fitted-sheet-1.jpg?v=1660216012",
     "category": "MagicLinen - Bedding"
@@ -6969,7 +6969,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "US / Full / Double",
     "price": 149.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -6978,7 +6978,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "US / Queen",
     "price": 149.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -6987,7 +6987,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "US / King",
     "price": 156.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -6996,7 +6996,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "US / CAL King",
     "price": 166.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7005,7 +7005,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "UK / King",
     "price": 156.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7014,7 +7014,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "EU / King",
     "price": 156.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7023,7 +7023,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "AU / Double",
     "price": 149.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7032,7 +7032,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "AU / Queen",
     "price": 156.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7041,7 +7041,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "AU / King",
     "price": 166.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -8796,7 +8796,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "US / Standard",
     "price": 38.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8805,7 +8805,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "US / Jumbo",
     "price": 39.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8823,7 +8823,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "US / King",
     "price": 42.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8832,7 +8832,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "EU / DE Standard",
     "price": 39.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8841,7 +8841,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "EU / Ikea",
     "price": 36.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8850,7 +8850,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "EU / Standard",
     "price": 39.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8877,7 +8877,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "Deco / Body",
     "price": 61.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8886,7 +8886,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "Deco / Boudoir",
     "price": 27.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8895,7 +8895,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "Deco / Small Deco",
     "price": 28.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -9732,7 +9732,7 @@
     "product_name": "Dusty blue linen duvet cover set (3 pcs)",
     "variant_name": "US / King / King",
     "price": 411.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover-set",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-duvet-cover-set-01.jpg?v=1681384156",
     "category": "MagicLinen - Bedding"
@@ -9741,7 +9741,7 @@
     "product_name": "Dusty blue linen duvet cover set (3 pcs)",
     "variant_name": "EU / Single / Standard",
     "price": 257.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover-set",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-duvet-cover-set-01.jpg?v=1681384156",
     "category": "MagicLinen - Bedding"
@@ -9750,7 +9750,7 @@
     "product_name": "Dusty blue linen duvet cover set (3 pcs)",
     "variant_name": "EU / Double / Standard",
     "price": 332.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover-set",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-duvet-cover-set-01.jpg?v=1681384156",
     "category": "MagicLinen - Bedding"
@@ -9759,7 +9759,7 @@
     "product_name": "Dusty blue linen duvet cover set (3 pcs)",
     "variant_name": "EU / King (IKEA) / Standard",
     "price": 372.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover-set",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-duvet-cover-set-01.jpg?v=1681384156",
     "category": "MagicLinen - Bedding"
@@ -11409,15 +11409,6 @@
     "available": true,
     "url": "https://magiclinen.com/products/body-pillowcase-in-charcoal-gray",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/body-linen-pillowcase-charcoal-gray-1.jpg?v=1674133708",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Body pillowcase in Dusty blue (Default Title)": {
-    "product_name": "Body pillowcase in Dusty blue",
-    "variant_name": "Default Title",
-    "price": 61.0,
-    "available": false,
-    "url": "https://magiclinen.com/products/body-dusty-blue-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/body-linen-pillowcase-dusty-blue-1.jpg?v=1674133787",
     "category": "MagicLinen - Bedding"
   },
   "[MagicLinen] Deco pillow cover with buttons in White (15x15\" / 40x40 cm)": {
