@@ -1938,7 +1938,7 @@
     "product_name": "Sage linen-cotton duvet cover",
     "variant_name": "US / Queen",
     "price": 210.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/sage-linen-cotton-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/NEW-sage-duvet-cover-1.jpg?v=1710938173",
     "category": "MagicLinen - Bedding"
@@ -3851,15 +3851,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/NEW-sage-linen-fitted-sheet.jpg?v=1710938231",
     "category": "MagicLinen - Bedding"
   },
-  "[MagicLinen] Sage linen-cotton fitted sheet (US / King (Deep Pocket))": {
-    "product_name": "Sage linen-cotton fitted sheet",
-    "variant_name": "US / King (Deep Pocket)",
-    "price": 156.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/sage-linen-cotton-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/NEW-sage-linen-fitted-sheet.jpg?v=1710938231",
-    "category": "MagicLinen - Bedding"
-  },
   "[MagicLinen] Sage linen-cotton fitted sheet (UK / Double)": {
     "product_name": "Sage linen-cotton fitted sheet",
     "variant_name": "UK / Double",
@@ -5718,7 +5709,7 @@
     "product_name": "Dusty blue linen duvet cover",
     "variant_name": "US / Queen",
     "price": 289.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/dusty-blue-linen-duvet-cover-1.jpg?v=1744376992",
     "category": "MagicLinen - Bedding"
@@ -6969,7 +6960,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "US / Full / Double",
     "price": 149.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -6978,7 +6969,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "US / Queen",
     "price": 149.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -6987,7 +6978,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "US / King",
     "price": 156.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7005,7 +6996,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "UK / King",
     "price": 156.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7014,7 +7005,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "EU / King",
     "price": 156.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7023,7 +7014,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "AU / Double",
     "price": 149.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7032,7 +7023,7 @@
     "product_name": "Dusty blue linen flat sheet",
     "variant_name": "AU / Queen",
     "price": 156.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-flat-sheet-1.jpg?v=1660216024",
     "category": "MagicLinen - Bedding"
@@ -7851,7 +7842,7 @@
     "product_name": "Sage linen-cotton pillowcase",
     "variant_name": "US / Standard",
     "price": 27.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/sage-linen-cotton-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/NEW-sage-linen-pillowcase.jpg?v=1710938274",
     "category": "MagicLinen - Bedding"
@@ -8796,7 +8787,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "US / Standard",
     "price": 38.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -8823,7 +8814,7 @@
     "product_name": "Dusty blue linen pillowcase",
     "variant_name": "US / King",
     "price": 42.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dusty-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dusty-blue-linen-pillowcase-1.jpg?v=1660216037",
     "category": "MagicLinen - Bedding"
@@ -10065,7 +10056,7 @@
     "product_name": "Sage linen-cotton flat sheet",
     "variant_name": "US / Full / Double",
     "price": 119.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/sage-linen-cotton-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/sage-linen-flat-sheet.jpg?v=1710938255",
     "category": "MagicLinen - Bedding"
@@ -10074,7 +10065,7 @@
     "product_name": "Sage linen-cotton flat sheet",
     "variant_name": "US / Queen",
     "price": 119.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/sage-linen-cotton-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/sage-linen-flat-sheet.jpg?v=1710938255",
     "category": "MagicLinen - Bedding"
@@ -10119,7 +10110,7 @@
     "product_name": "Sage linen-cotton flat sheet",
     "variant_name": "AU / Double",
     "price": 119.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/sage-linen-cotton-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/sage-linen-flat-sheet.jpg?v=1710938255",
     "category": "MagicLinen - Bedding"
