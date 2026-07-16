@@ -5,9 +5,16 @@ from datetime import datetime
 
 # 1. Expanded to track categories across BOTH web properties
 COLLECTIONS = {
-    "MagicLinen - Bedding": "https://magiclinen.com/collections/bedding/products.json?limit=250",
-    "MagicLinen - Clothing": "https://magiclinen.com/collections/clothing/products.json?limit=250",
+    # --- MagicLinen Bedding ---
+    "MagicLinen - Bedding": "https://magiclinen.com/collections/linen-bedding/products.json?limit=250",
     "MagicLinen - Clearance": "https://magiclinen.com/collections/clearance/products.json?limit=250",
+    
+    # --- MagicLinen Clothing (Split to capture everything!) ---
+    "MagicLinen - Women's Clothing": "https://magiclinen.com/collections/womens-clothing/products.json?limit=250",
+    "MagicLinen - Men's Clothing": "https://magiclinen.com/collections/mens-clothing/products.json?limit=250",
+    "MagicLinen - Linen Tops": "https://magiclinen.com/collections/linen-tops/products.json?limit=250",
+    
+    # --- No More Accessories ---
     "NoMoreAccessories - Rings": "https://nomoreaccessories.com/collections/rings/products.json?limit=250",
     "NoMoreAccessories - Earrings": "https://nomoreaccessories.com/collections/earrings/products.json?limit=250",
     "NoMoreAccessories - Outlet": "https://nomoreaccessories.com/collections/outlet/products.json?limit=250"
