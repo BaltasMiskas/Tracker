@@ -6150,7 +6150,7 @@
     "product_name": "Heavyweight linen throw blanket in Natural melange",
     "variant_name": "59x74\" / 150x190 cm",
     "price": 132.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/heavyweight-linen-throw-blanket-in-natural-melange",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/heavyweight-linen-throw-blanket-natural-melange.jpg?v=1729151490",
     "category": "MagicLinen - Bedding"
@@ -15474,7 +15474,7 @@
     "product_name": "Linen jacket LOS ANGELES in Mist green",
     "variant_name": "L",
     "price": 109.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/linen-jacket-los-angeles-in-mist-green",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/los-angeles-mist-green.jpg?v=1773135612",
     "category": "MagicLinen - Linen Tops"
@@ -16177,15 +16177,6 @@
     "variant_name": "XS",
     "price": 131.0,
     "available": false,
-    "url": "https://magiclinen.com/products/pleated-sleeveless-linen-top-moorea-in-black",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pleated-sleeveless-linen-top-moorea-in-black-3.jpg?v=1750932555",
-    "category": "MagicLinen - Linen Tops"
-  },
-  "[MagicLinen] Pleated Sleeveless Linen Top MOOREA in Black (S)": {
-    "product_name": "Pleated Sleeveless Linen Top MOOREA in Black",
-    "variant_name": "S",
-    "price": 131.0,
-    "available": true,
     "url": "https://magiclinen.com/products/pleated-sleeveless-linen-top-moorea-in-black",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pleated-sleeveless-linen-top-moorea-in-black-3.jpg?v=1750932555",
     "category": "MagicLinen - Linen Tops"
