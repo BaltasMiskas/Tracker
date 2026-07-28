@@ -4728,7 +4728,7 @@
     "product_name": "Gray blue linen pillowcase",
     "variant_name": "US / Standard",
     "price": 38.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/gray-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/gray-blue-linen-pillowcase-1.jpg?v=1660216160",
     "category": "MagicLinen - Bedding"
@@ -9444,7 +9444,7 @@
     "product_name": "Vanilla waffle blanket",
     "variant_name": "102x94\" / 260x240cm",
     "price": 194.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/vanilla-waffle-blanket",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/vanilla-waffle-blanket-1.jpg?v=1765361186",
     "category": "MagicLinen - Bedding"
@@ -11226,7 +11226,7 @@
     "product_name": "Dark gray waffle blanket",
     "variant_name": "102x94\" / 260x240 cm",
     "price": 198.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/dark-gray-waffle-blanket",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/dark-gray-waffle-blanket-011.jpg?v=1680273748",
     "category": "MagicLinen - Bedding"
@@ -14853,7 +14853,7 @@
     "product_name": "Sleeveless Linen Top GENEVA in White",
     "variant_name": "S",
     "price": 82.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/sleeveless-linen-top-geneva-in-white",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/geneva-white-linen-top.jpg?v=1773911207",
     "category": "MagicLinen - Linen Tops"
@@ -15510,7 +15510,7 @@
     "product_name": "Sleeveless Linen Top DOURO in Vivid blue",
     "variant_name": "M",
     "price": 78.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/sleeveless-linen-top-douro-in-vivid-blue",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/sleeveless-linen-top-douro-in-vivid-blue-3.jpg?v=1741877437",
     "category": "MagicLinen - Linen Tops"
@@ -15591,7 +15591,7 @@
     "product_name": "Spaghetti strap linen top ZION in White",
     "variant_name": "XS",
     "price": 62.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/spaghetti-strap-linen-top-zion-in-white",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/ZION-top-in-white-3-MAIN.jpg?v=1679923280",
     "category": "MagicLinen - Linen Tops"
@@ -15600,7 +15600,7 @@
     "product_name": "Spaghetti strap linen top ZION in White",
     "variant_name": "S",
     "price": 62.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/spaghetti-strap-linen-top-zion-in-white",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/ZION-top-in-white-3-MAIN.jpg?v=1679923280",
     "category": "MagicLinen - Linen Tops"
