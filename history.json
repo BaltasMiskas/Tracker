@@ -14880,7 +14880,7 @@
     "product_name": "Linen jacket LOS ANGELES in Mist green",
     "variant_name": "M",
     "price": 109.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/linen-jacket-los-angeles-in-mist-green",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/los-angeles-mist-green.jpg?v=1773135612",
     "category": "MagicLinen - Linen Tops"
@@ -16581,7 +16581,7 @@
     "product_name": "Wave Ear Cuff Silver",
     "variant_name": "Default Title",
     "price": 63.0,
-    "available": false,
+    "available": true,
     "url": "https://nomoreaccessories.com/products/wave-ear-cuff-silver",
     "image": "https://cdn.shopify.com/s/files/1/1613/5375/products/wave-ear-cuff-silverno-more-accessories-648078.jpg?v=1706189888",
     "category": "NoMoreAccessories - Outlet"
