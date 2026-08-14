@@ -2469,7 +2469,7 @@
     "product_name": "Gray blue linen pillowcase",
     "variant_name": "US / Standard",
     "price": 38.0,
-    "available": false,
+    "available": true,
     "url": "https://magiclinen.com/products/gray-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/gray-blue-linen-pillowcase-1.jpg?v=1660216160",
     "category": "MagicLinen - Bedding"
@@ -13710,7 +13710,7 @@
     "product_name": "Forest green gingham linen duvet cover",
     "variant_name": "EU / King (IKEA)",
     "price": 295.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/forest-green-gingham-linen-duvet-cover",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/forest-green-gingham-linen-duvet-cover_828589fa-7a0b-4fa6-9226-f526e13f2848.jpg?v=1707384886",
     "category": "MagicLinen - Bedding"
@@ -14178,7 +14178,7 @@
     "product_name": "Forest green gingham linen pillowcase",
     "variant_name": "US Standard (Standard)",
     "price": 38.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/sky-blue-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/forest-green-gingham-linen-pillowcase_2.jpg?v=1707385678",
     "category": "MagicLinen - Bedding"
@@ -16806,7 +16806,7 @@
     "product_name": "Sea Horn Earrings Silver",
     "variant_name": "A pair",
     "price": 56.0,
-    "available": true,
+    "available": false,
     "url": "https://nomoreaccessories.com/products/sea-horn-earrings",
     "image": "https://cdn.shopify.com/s/files/1/1613/5375/files/no_more_accessories_sea_horn_stud_earrings_2.jpg?v=1749127910",
     "category": "NoMoreAccessories - Outlet"
