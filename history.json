@@ -327,7 +327,7 @@
     "product_name": "Gray blue linen duvet cover set (3 pcs)",
     "variant_name": "US / Queen / Queen",
     "price": 366.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/gray-blue-linen-duvet-cover-set",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/gray-blue-linen-duvet-cover-set-01.jpg?v=1681384187",
     "category": "MagicLinen - Bedding"
@@ -2532,7 +2532,7 @@
     "product_name": "Heavyweight linen throw blanket in Natural melange",
     "variant_name": "59x74\" / 150x190 cm",
     "price": 132.0,
-    "available": true,
+    "available": false,
     "url": "https://magiclinen.com/products/heavyweight-linen-throw-blanket-in-natural-melange",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/heavyweight-linen-throw-blanket-natural-melange.jpg?v=1729151490",
     "category": "MagicLinen - Bedding"
@@ -7109,6 +7109,123 @@
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/cinnamon-linen-duvet-cover-set-01.jpg?v=1681384140",
     "category": "MagicLinen - Bedding"
   },
+  "[MagicLinen] Pinstripe black linen pillowcase (US / Standard)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "US / Standard",
+    "price": 38.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (US / Jumbo)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "US / Jumbo",
+    "price": 39.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (US / Queen)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "US / Queen",
+    "price": 39.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (US / King)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "US / King",
+    "price": 42.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (EU / DE Standard)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "EU / DE Standard",
+    "price": 39.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (EU / Ikea)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "EU / Ikea",
+    "price": 36.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (EU / Standard)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "EU / Standard",
+    "price": 39.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (EU / Square)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "EU / Square",
+    "price": 42.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Body)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "Deco / Body",
+    "price": 61.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Boudoir)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "Deco / Boudoir",
+    "price": 27.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Small Deco)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "Deco / Small Deco",
+    "price": 28.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Deco)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "Deco / Deco",
+    "price": 31.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Big Deco)": {
+    "product_name": "Pinstripe black linen pillowcase",
+    "variant_name": "Deco / Big Deco",
+    "price": 35.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
+    "category": "MagicLinen - Bedding"
+  },
   "[MagicLinen] Mocha linen fitted sheet (US / Twin XL)": {
     "product_name": "Mocha linen fitted sheet",
     "variant_name": "US / Twin XL",
@@ -8324,123 +8441,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/matcha-green-linen-sheet-set-0.jpg?v=1669276934",
     "category": "MagicLinen - Bedding"
   },
-  "[MagicLinen] Pinstripe black linen pillowcase (US / Standard)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "US / Standard",
-    "price": 38.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (US / Jumbo)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "US / Jumbo",
-    "price": 39.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (US / Queen)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "US / Queen",
-    "price": 39.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (US / King)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "US / King",
-    "price": 42.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (EU / DE Standard)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "EU / DE Standard",
-    "price": 39.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (EU / Ikea)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "EU / Ikea",
-    "price": 36.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (EU / Standard)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "EU / Standard",
-    "price": 39.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (EU / Square)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "EU / Square",
-    "price": 42.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Body)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "Deco / Body",
-    "price": 61.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Boudoir)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "Deco / Boudoir",
-    "price": 27.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Small Deco)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "Deco / Small Deco",
-    "price": 28.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Deco)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "Deco / Deco",
-    "price": 31.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen pillowcase (Deco / Big Deco)": {
-    "product_name": "Pinstripe black linen pillowcase",
-    "variant_name": "Deco / Big Deco",
-    "price": 35.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-pillowcase",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-pillowcase-pinstripe-black-3_95307e1e-8f19-4e32-ac3b-69130abeda7e.jpg?v=1787208562",
-    "category": "MagicLinen - Bedding"
-  },
   "[MagicLinen] Beige waffle blanket (87x83\" / 220x210 cm)": {
     "product_name": "Beige waffle blanket",
     "variant_name": "87x83\" / 220x210 cm",
@@ -8880,6 +8880,96 @@
     "available": true,
     "url": "https://magiclinen.com/products/forest-green-linen-duvet-cover-set",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/forest-green-linen-duvet-cover-set-01.jpg?v=1756383630",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Twin / Standard pocket / Standard)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "Twin / Standard pocket / Standard",
+    "price": 314.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Full / Double / Standard pocket / Standard)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "Full / Double / Standard pocket / Standard",
+    "price": 363.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Standard pocket / Standard)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "Queen / Standard pocket / Standard",
+    "price": 374.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Standard pocket / Queen)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "Queen / Standard pocket / Queen",
+    "price": 375.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Deep pocket / Standard)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "Queen / Deep pocket / Standard",
+    "price": 411.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Deep pocket / Queen)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "Queen / Deep pocket / Queen",
+    "price": 414.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Standard pocket / Standard)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "King / Standard pocket / Standard",
+    "price": 399.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Standard pocket / King)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "King / Standard pocket / King",
+    "price": 408.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Deep pocket / Standard)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "King / Deep pocket / Standard",
+    "price": 441.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Deep pocket / King)": {
+    "product_name": "Pinstripe black linen sheet set (4 pcs)",
+    "variant_name": "King / Deep pocket / King",
+    "price": 450.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
     "category": "MagicLinen - Bedding"
   },
   "[MagicLinen] Body pillowcase in White (Default Title)": {
@@ -9762,96 +9852,6 @@
     "available": true,
     "url": "https://magiclinen.com/products/gray-blue-linen-flat-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/gray-blue-linen-flat-sheet-1.jpg?v=1660216148",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Twin / Standard pocket / Standard)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "Twin / Standard pocket / Standard",
-    "price": 314.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Full / Double / Standard pocket / Standard)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "Full / Double / Standard pocket / Standard",
-    "price": 363.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Standard pocket / Standard)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "Queen / Standard pocket / Standard",
-    "price": 374.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Standard pocket / Queen)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "Queen / Standard pocket / Queen",
-    "price": 375.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Deep pocket / Standard)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "Queen / Deep pocket / Standard",
-    "price": 411.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (Queen / Deep pocket / Queen)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "Queen / Deep pocket / Queen",
-    "price": 414.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Standard pocket / Standard)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "King / Standard pocket / Standard",
-    "price": 399.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Standard pocket / King)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "King / Standard pocket / King",
-    "price": 408.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Deep pocket / Standard)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "King / Deep pocket / Standard",
-    "price": 441.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen sheet set (4 pcs) (King / Deep pocket / King)": {
-    "product_name": "Pinstripe black linen sheet set (4 pcs)",
-    "variant_name": "King / Deep pocket / King",
-    "price": 450.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-sheet-set-4-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-sheet-set-2.jpg?v=1787220331",
     "category": "MagicLinen - Bedding"
   },
   "[MagicLinen] Meadow print linen sheet set (4 pcs) (Twin / Standard pocket / Standard)": {
@@ -10925,6 +10925,123 @@
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/body-linen-pillowcase-natural-1.jpg?v=1674133920",
     "category": "MagicLinen - Bedding"
   },
+  "[MagicLinen] Pinstripe black linen duvet cover (US / Twin XL)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "US / Twin XL",
+    "price": 231.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (US / Full / Double)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "US / Full / Double",
+    "price": 246.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (US / Queen)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "US / Queen",
+    "price": 289.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (US / King)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "US / King",
+    "price": 326.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (US / CAL King)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "US / CAL King",
+    "price": 345.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (UK / Single)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "UK / Single",
+    "price": 182.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (UK / Single (IKEA))": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "UK / Single (IKEA)",
+    "price": 196.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (UK / Double)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "UK / Double",
+    "price": 246.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (UK / King)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "UK / King",
+    "price": 286.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (EU / Single)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "EU / Single",
+    "price": 182.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (EU / Single (IKEA))": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "EU / Single (IKEA)",
+    "price": 196.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (EU / Double)": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "EU / Double",
+    "price": 256.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover (EU / King (IKEA))": {
+    "product_name": "Pinstripe black linen duvet cover",
+    "variant_name": "EU / King (IKEA)",
+    "price": 295.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
+    "category": "MagicLinen - Bedding"
+  },
   "[MagicLinen] Matcha green linen pillowcase (US / Standard)": {
     "product_name": "Matcha green linen pillowcase",
     "variant_name": "US / Standard",
@@ -11769,123 +11886,6 @@
     "available": false,
     "url": "https://magiclinen.com/products/olive-green-linen-pillowcase",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/products/olive-green-linen-pillowcase-1.jpg?v=1660217900",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (US / Twin XL)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "US / Twin XL",
-    "price": 231.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (US / Full / Double)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "US / Full / Double",
-    "price": 246.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (US / Queen)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "US / Queen",
-    "price": 289.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (US / King)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "US / King",
-    "price": 326.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (US / CAL King)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "US / CAL King",
-    "price": 345.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (UK / Single)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "UK / Single",
-    "price": 182.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (UK / Single (IKEA))": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "UK / Single (IKEA)",
-    "price": 196.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (UK / Double)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "UK / Double",
-    "price": 246.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (UK / King)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "UK / King",
-    "price": 286.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (EU / Single)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "EU / Single",
-    "price": 182.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (EU / Single (IKEA))": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "EU / Single (IKEA)",
-    "price": 196.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (EU / Double)": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "EU / Double",
-    "price": 256.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover (EU / King (IKEA))": {
-    "product_name": "Pinstripe black linen duvet cover",
-    "variant_name": "EU / King (IKEA)",
-    "price": 295.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/ml-linen-duvet-cover-pinstripe-black-8.jpg?v=1787218614",
     "category": "MagicLinen - Bedding"
   },
   "[MagicLinen] Body pillowcase in Matcha green (Default Title)": {
@@ -13706,6 +13706,276 @@
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/Gridrufflepillow.png?v=1782981531",
     "category": "MagicLinen - Bedding"
   },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / Twin / Standard)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "US / Twin / Standard",
+    "price": 299.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / Queen / Standard)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "US / Queen / Standard",
+    "price": 364.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / Queen / Queen)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "US / Queen / Queen",
+    "price": 366.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / King / Standard)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "US / King / Standard",
+    "price": 402.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / King / King)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "US / King / King",
+    "price": 411.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (EU / Single / Standard)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "EU / Single / Standard",
+    "price": 257.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (EU / Double / Standard)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "EU / Double / Standard",
+    "price": 332.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (EU / King (IKEA) / Standard)": {
+    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
+    "variant_name": "EU / King (IKEA) / Standard",
+    "price": 372.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (US / Twin)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "US / Twin",
+    "price": 116.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (US / Twin XL)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "US / Twin XL",
+    "price": 116.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (US / Full / Double)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "US / Full / Double",
+    "price": 149.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (US / Queen)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "US / Queen",
+    "price": 149.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (US / King)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "US / King",
+    "price": 156.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (US / CAL King)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "US / CAL King",
+    "price": 166.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (UK / King)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "UK / King",
+    "price": 156.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (EU / King)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "EU / King",
+    "price": 156.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (AU / Double)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "AU / Double",
+    "price": 149.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (AU / Queen)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "AU / Queen",
+    "price": 156.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen flat sheet (AU / King)": {
+    "product_name": "Pinstripe black linen flat sheet",
+    "variant_name": "AU / King",
+    "price": 166.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (US / Twin XL)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "US / Twin XL",
+    "price": 123.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (US / Full / Double)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "US / Full / Double",
+    "price": 138.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (US / Queen)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "US / Queen",
+    "price": 148.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (US / Queen (Deep Pocket))": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "US / Queen (Deep Pocket)",
+    "price": 186.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (US / CAL King)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "US / CAL King",
+    "price": 170.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (US / King)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "US / King",
+    "price": 167.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (US / King (Deep Pocket))": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "US / King (Deep Pocket)",
+    "price": 208.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (UK / Double)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "UK / Double",
+    "price": 138.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (UK / King)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "UK / King",
+    "price": 148.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (EU / King)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "EU / King",
+    "price": 147.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
+  "[MagicLinen] Pinstripe black linen fitted sheet (AU / Queen)": {
+    "product_name": "Pinstripe black linen fitted sheet",
+    "variant_name": "AU / Queen",
+    "price": 186.0,
+    "available": true,
+    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
+    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
+    "category": "MagicLinen - Bedding"
+  },
   "[MagicLinen] Striped in forest green linen duvet cover set (3 pcs) (US / Twin / Standard)": {
     "product_name": "Striped in forest green linen duvet cover set (3 pcs)",
     "variant_name": "US / Twin / Standard",
@@ -14955,276 +15225,6 @@
     "available": false,
     "url": "https://magiclinen.com/products/charcoal-windowpane-linen-fitted-sheet",
     "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/fitted-sheed-charcoal-windowpane.jpg?v=1762256084",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / Twin / Standard)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "US / Twin / Standard",
-    "price": 299.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / Queen / Standard)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "US / Queen / Standard",
-    "price": 364.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / Queen / Queen)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "US / Queen / Queen",
-    "price": 366.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / King / Standard)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "US / King / Standard",
-    "price": 402.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (US / King / King)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "US / King / King",
-    "price": 411.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (EU / Single / Standard)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "EU / Single / Standard",
-    "price": 257.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (EU / Double / Standard)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "EU / Double / Standard",
-    "price": 332.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen duvet cover set (3 pcs) (EU / King (IKEA) / Standard)": {
-    "product_name": "Pinstripe black linen duvet cover set (3 pcs)",
-    "variant_name": "EU / King (IKEA) / Standard",
-    "price": 372.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-duvet-cover-set-3-pcs",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/duvet-cover-set-pinstripe-black.jpg?v=1787219418",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (US / Twin)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "US / Twin",
-    "price": 116.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (US / Twin XL)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "US / Twin XL",
-    "price": 116.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (US / Full / Double)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "US / Full / Double",
-    "price": 149.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (US / Queen)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "US / Queen",
-    "price": 149.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (US / King)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "US / King",
-    "price": 156.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (US / CAL King)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "US / CAL King",
-    "price": 166.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (UK / King)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "UK / King",
-    "price": 156.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (EU / King)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "EU / King",
-    "price": 156.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (AU / Double)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "AU / Double",
-    "price": 149.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (AU / Queen)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "AU / Queen",
-    "price": 156.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen flat sheet (AU / King)": {
-    "product_name": "Pinstripe black linen flat sheet",
-    "variant_name": "AU / King",
-    "price": 166.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-flat-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pintripe-black-flat-linen-sheet-3.jpg?v=1787220881",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (US / Twin XL)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "US / Twin XL",
-    "price": 123.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (US / Full / Double)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "US / Full / Double",
-    "price": 138.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (US / Queen)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "US / Queen",
-    "price": 148.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (US / Queen (Deep Pocket))": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "US / Queen (Deep Pocket)",
-    "price": 186.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (US / CAL King)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "US / CAL King",
-    "price": 170.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (US / King)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "US / King",
-    "price": 167.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (US / King (Deep Pocket))": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "US / King (Deep Pocket)",
-    "price": 208.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (UK / Double)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "UK / Double",
-    "price": 138.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (UK / King)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "UK / King",
-    "price": 148.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (EU / King)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "EU / King",
-    "price": 147.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
-    "category": "MagicLinen - Bedding"
-  },
-  "[MagicLinen] Pinstripe black linen fitted sheet (AU / Queen)": {
-    "product_name": "Pinstripe black linen fitted sheet",
-    "variant_name": "AU / Queen",
-    "price": 186.0,
-    "available": true,
-    "url": "https://magiclinen.com/products/pinstripe-black-linen-fitted-sheet",
-    "image": "https://cdn.shopify.com/s/files/1/0640/8454/1699/files/pinstripe-black-linen-fitted-sheet-1.jpg?v=1787221217",
     "category": "MagicLinen - Bedding"
   },
   "[MagicLinen] Tan linen pillowcase (US Jumbo / EU Standard)": {
